@@ -1,6 +1,10 @@
 # cpu
 
-A simple pipelined implementation of p4
+A simple pipelined implementation of a cpu in Verilog.
+Files written by me at:
+```
+/cpu.v
+```
 
 It has six stages: F, D, R, X, L, W
 
